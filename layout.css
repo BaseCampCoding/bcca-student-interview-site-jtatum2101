@@ -1,0 +1,84 @@
+html { 
+    font-size: 20px;
+}
+
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: turquoise;
+    background: url(https://thumbs.gfycat.com/BrilliantOpulentDragon-max-1mb.gif);
+    margin: 0;
+
+}
+h1 {
+    font-family: fantasy;
+    font-size: large;
+    line-height: normal;
+    text-align: center;
+    color:  turquoise;
+
+}
+
+
+  
+h2 {
+    font-size: 1.25rem;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    line-height: normal;
+    text-align: center;
+    color:turquoise;
+
+}
+h3 {
+    font-size: 1.25rem;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: turquoise;
+
+}
+h4 {
+    font-size: 2rem;
+    font-family: "cursive";
+    line-height: normal;
+    text-align: center;
+    color: turquoise;
+}
+
+a {
+color: turquoise;
+}
+
+a:visited {
+    
+color: red;
+}
+
+
+div{
+    font-size: 1rem;
+    font-family: "cursive";
+    line-height: normal;
+    text-align: center;
+    color: greenyellow;
+}
+
+p{
+    font-size: 1rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: normal;
+    text-align: center;
+    color: turquoise;
+}
+
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0;
+
+}
+
